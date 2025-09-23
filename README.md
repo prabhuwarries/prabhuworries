@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**prabhuworries/prabhuworries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🥷🏻 I’m Prabhat Ranjan (aka prabhuworries)
+🚀 SDET-2 | QA Engineer | Automation Enthusiast
+•	🔹 7+ years of experience in Software Testing & Automation
+•	🔹 Skilled in Selenium, Appium (Java), TestNG, Rest Assured, Postman
+•	🔹 Experienced across RMG (Real Money Gaming) & Edu-Tech domains.
+•	🔹 Passionate about building robust automation frameworks and ensuring seamless user experiences
+•	🔹 Strong knowledge of API Testing, Database Testing (MySQL, MongoDB, DynamoDB) and CI/CD (Jenkins, GitHub Actions)
+•	🔹 Enthusiastic about exploring AI in Test Automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Currently working at Baazi Games as an SDET-2, automating mobile & backend workflows and driving quality initiatives.
+
+💡 Always curious to learn, share, and contribute to open-source and testing communities.
