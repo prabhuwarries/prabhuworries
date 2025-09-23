@@ -1,12 +1,14 @@
-# Hi 👋, I'm Prabhat Ranjan
+# Hi 👋, I'm Prabhat Ranjan  
 
 🔹 Passionate **SDET-2 / QA Engineer** with 7 years of experience in Manual & Automation Testing.  
-🔹 Skilled in **Mobile (Appium, Android/iOS), Web (Selenium), API (Postman, Rest Assured)**, and **Database Testing (MySQL, MongoDB, DynamoDB)**.  
-🔹 Experience in **Real Money Gaming (RMG)** & **Edu-Tech** industries.  
-🔹 Strong knowledge of **Agile, STLC, SDLC, CI/CD (Jenkins)** and production validation.  
-🔹 Solved 200+ Leetcode Problems and targeing more going On......  
-
-
+🔹 Skilled in **Mobile Automation (Appium with Java/TestNG), Web (Selenium), API Testing (Postman, Rest Assured)**, and **Database Testing (MySQL, MongoDB, DynamoDB)**.  
+🔹 Domain expertise in **Real Money Gaming (RMG)** and **Edu-Tech** industries.  
+🔹 Strong knowledge of **Agile, STLC, SDLC, CI/CD (Jenkins)**, production validation, and release sign-offs.  
+🔹 Experienced in designing and maintaining **end-to-end automation frameworks**, including frontend sanity/regression suites and backend API automation.  
+🔹 Hands-on exposure to **AWS services (EC2, CloudWatch, Lambda, SQS, DynamoDB)** and monitoring tools like **Grafana, New Relic, and Charles Proxy**.  
+🔹 Passionate about **Game Testing** and ensuring seamless gameplay experiences for users.  
+🔹 Proficient in **Test Planning, Estimation, Bug Reporting (JIRA, Confluence), RCA, and QA process improvements**.  
+🔹 **Solved 200+ LeetCode problems** and actively practicing Data Structures & Algorithms to strengthen problem-solving skills.  
 
 ---
 
