@@ -21,16 +21,16 @@
 
 ## 🌐 Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/prabhuworries" target="_blank">
+  <a href="https://www.linkedin.com/in/prabhuwarries" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/prabhuworries/" target="_blank">
+  <a href="https://www.instagram.com/prabhuwarries/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://x.com/prabhuworries" target="_blank">
+  <a href="https://x.com/prabhuwarries" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/prabhuworries/" target="_blank">
+  <a href="https://www.facebook.com/prabhuwarries/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
@@ -38,13 +38,13 @@
 ---
 
 ## 📊 GitHub Stats:
-![Prabhat's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhuworries&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhuworries&layout=compact&theme=radical)
+![Prabhat's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhuwarries&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhuwarries&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Connect with me:
-- 💼 [LinkedIn](https://www.linkedin.com/in/prabhuworries)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/prabhuwarries)  
 - 📧 Email: prabhsandy6@gmail.com, prabhsandy6@icloud.com, prabhsandy6@outlook.com
 - +91 9036586065
 
